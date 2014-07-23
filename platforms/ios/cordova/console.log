@@ -1,0 +1,56 @@
+2014-07-23 19:37:20.093 ionic_tabs[3246:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:37:20.100 ionic_tabs[3246:70b] Unlimited access to network resources
+2014-07-23 19:37:20.117 ionic_tabs[3246:70b] [CDVTimer][keyboard] 0.054002ms
+2014-07-23 19:37:20.117 ionic_tabs[3246:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:37:20.118 ionic_tabs[3246:70b] [CDVTimer][statusbar] 0.308990ms
+2014-07-23 19:37:20.118 ionic_tabs[3246:70b] [CDVTimer][TotalPluginStartup] 1.021981ms
+2014-07-23 19:37:20.192 ionic_tabs[3246:70b] Resetting plugins due to page load.
+2014-07-23 19:37:20.310 ionic_tabs[3246:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
+2014-07-23 19:38:18.706 ionic_tabs[3440:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:38:18.712 ionic_tabs[3440:70b] Unlimited access to network resources
+2014-07-23 19:38:18.728 ionic_tabs[3440:70b] [CDVTimer][keyboard] 0.055015ms
+2014-07-23 19:38:18.728 ionic_tabs[3440:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:38:18.729 ionic_tabs[3440:70b] [CDVTimer][statusbar] 0.333011ms
+2014-07-23 19:38:18.729 ionic_tabs[3440:70b] [CDVTimer][TotalPluginStartup] 1.056015ms
+2014-07-23 19:38:18.778 ionic_tabs[3440:70b] Resetting plugins due to page load.
+2014-07-23 19:38:18.882 ionic_tabs[3440:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
+2014-07-23 19:38:46.264 ionic_tabs[3770:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:38:46.277 ionic_tabs[3770:70b] Unlimited access to network resources
+2014-07-23 19:38:46.314 ionic_tabs[3770:70b] [CDVTimer][keyboard] 0.078976ms
+2014-07-23 19:38:46.314 ionic_tabs[3770:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:38:46.315 ionic_tabs[3770:70b] [CDVTimer][statusbar] 0.457048ms
+2014-07-23 19:38:46.315 ionic_tabs[3770:70b] [CDVTimer][TotalPluginStartup] 1.468003ms
+2014-07-23 19:38:46.551 ionic_tabs[3770:70b] Resetting plugins due to page load.
+2014-07-23 19:38:46.676 ionic_tabs[3770:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
+2014-07-23 19:39:43.558 ionic_tabs[4084:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:39:43.565 ionic_tabs[4084:70b] Unlimited access to network resources
+2014-07-23 19:39:43.582 ionic_tabs[4084:70b] [CDVTimer][keyboard] 0.059009ms
+2014-07-23 19:39:43.582 ionic_tabs[4084:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:39:43.582 ionic_tabs[4084:70b] [CDVTimer][statusbar] 0.328004ms
+2014-07-23 19:39:43.583 ionic_tabs[4084:70b] [CDVTimer][TotalPluginStartup] 1.092970ms
+2014-07-23 19:39:43.633 ionic_tabs[4084:70b] Resetting plugins due to page load.
+2014-07-23 19:39:43.743 ionic_tabs[4084:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
+2014-07-23 19:40:17.819 ionic_tabs[4415:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:40:17.827 ionic_tabs[4415:70b] Unlimited access to network resources
+2014-07-23 19:40:17.848 ionic_tabs[4415:70b] [CDVTimer][keyboard] 0.056028ms
+2014-07-23 19:40:17.848 ionic_tabs[4415:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:40:17.849 ionic_tabs[4415:70b] [CDVTimer][statusbar] 0.428021ms
+2014-07-23 19:40:17.849 ionic_tabs[4415:70b] [CDVTimer][TotalPluginStartup] 1.378000ms
+2014-07-23 19:40:17.997 ionic_tabs[4415:70b] Resetting plugins due to page load.
+2014-07-23 19:40:18.115 ionic_tabs[4415:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
+2014-07-23 19:41:39.553 ionic_tabs[4871:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:41:39.560 ionic_tabs[4871:70b] Unlimited access to network resources
+2014-07-23 19:41:39.575 ionic_tabs[4871:70b] [CDVTimer][keyboard] 0.054002ms
+2014-07-23 19:41:39.576 ionic_tabs[4871:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:41:39.576 ionic_tabs[4871:70b] [CDVTimer][statusbar] 0.378013ms
+2014-07-23 19:41:39.576 ionic_tabs[4871:70b] [CDVTimer][TotalPluginStartup] 1.147032ms
+2014-07-23 19:41:39.624 ionic_tabs[4871:70b] Resetting plugins due to page load.
+2014-07-23 19:41:39.726 ionic_tabs[4871:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
+2014-07-23 19:42:38.511 ionic_tabs[5346:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 19:42:38.517 ionic_tabs[5346:70b] Unlimited access to network resources
+2014-07-23 19:42:38.536 ionic_tabs[5346:70b] [CDVTimer][keyboard] 0.077009ms
+2014-07-23 19:42:38.537 ionic_tabs[5346:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 19:42:38.537 ionic_tabs[5346:70b] [CDVTimer][statusbar] 0.316024ms
+2014-07-23 19:42:38.537 ionic_tabs[5346:70b] [CDVTimer][TotalPluginStartup] 1.257002ms
+2014-07-23 19:42:38.647 ionic_tabs[5346:70b] Resetting plugins due to page load.
+2014-07-23 19:42:38.763 ionic_tabs[5346:70b] Finished load of: file:///Users/cpantin/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F46B03DD-0ECF-4940-8056-8F6F515F8C8B/ionic_tabs.app/www/index.html#/tab/dash
